@@ -1,3 +1,5 @@
 estoy usando git por primera vez 
 
-Hice mi primer commit 
+Hice mi primer commit
+
+hice mi segundo commit 
